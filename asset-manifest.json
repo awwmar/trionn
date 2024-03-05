@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/trionn/static/css/main.010bfd9b.css",
-    "main.js": "/trionn/static/js/main.60e66ad0.js",
+    "main.css": "/trionn/static/css/main.6939d607.css",
+    "main.js": "/trionn/static/js/main.11600b8c.js",
     "static/js/453.3607f635.chunk.js": "/trionn/static/js/453.3607f635.chunk.js",
     "static/media/img3.jpeg": "/trionn/static/media/img3.d7be5b59d120cc4a08fe.jpeg",
     "static/media/img1.jpeg": "/trionn/static/media/img1.bd5cb2986045a9382ae0.jpeg",
     "static/media/img2.jpeg": "/trionn/static/media/img2.0cb2b2c64e3319fc5d87.jpeg",
     "static/media/logo.svg": "/trionn/static/media/logo.000b26daafa881f6dd4e.svg",
     "index.html": "/trionn/index.html",
-    "main.010bfd9b.css.map": "/trionn/static/css/main.010bfd9b.css.map",
-    "main.60e66ad0.js.map": "/trionn/static/js/main.60e66ad0.js.map",
+    "main.6939d607.css.map": "/trionn/static/css/main.6939d607.css.map",
+    "main.11600b8c.js.map": "/trionn/static/js/main.11600b8c.js.map",
     "453.3607f635.chunk.js.map": "/trionn/static/js/453.3607f635.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.010bfd9b.css",
-    "static/js/main.60e66ad0.js"
+    "static/css/main.6939d607.css",
+    "static/js/main.11600b8c.js"
   ]
 }
