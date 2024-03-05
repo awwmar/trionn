@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trionn/static/css/main.6939d607.css",
+    "main.css": "/trionn/static/css/main.e2985b0e.css",
     "main.js": "/trionn/static/js/main.11600b8c.js",
     "static/js/453.3607f635.chunk.js": "/trionn/static/js/453.3607f635.chunk.js",
     "static/media/img3.jpeg": "/trionn/static/media/img3.d7be5b59d120cc4a08fe.jpeg",
@@ -8,12 +8,12 @@
     "static/media/img2.jpeg": "/trionn/static/media/img2.0cb2b2c64e3319fc5d87.jpeg",
     "static/media/logo.svg": "/trionn/static/media/logo.000b26daafa881f6dd4e.svg",
     "index.html": "/trionn/index.html",
-    "main.6939d607.css.map": "/trionn/static/css/main.6939d607.css.map",
+    "main.e2985b0e.css.map": "/trionn/static/css/main.e2985b0e.css.map",
     "main.11600b8c.js.map": "/trionn/static/js/main.11600b8c.js.map",
     "453.3607f635.chunk.js.map": "/trionn/static/js/453.3607f635.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6939d607.css",
+    "static/css/main.e2985b0e.css",
     "static/js/main.11600b8c.js"
   ]
 }
